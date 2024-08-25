@@ -1,4 +1,4 @@
-## Textutils is my First React App where we can manipulate the text.
+## Text-Manipulator is my First React App where we can manipulate the text.
 <h2>This uses function based react component to form this project</h2>
 Function or utilities that are here<br/>
 --> Convert to Upper Case<br/>
